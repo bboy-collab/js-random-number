@@ -1,0 +1,15 @@
+.labels{
+    
+    font-size: 6em;
+}
+body{
+    font-family: monospace;
+    display: grid;
+    place-items: center;
+    text-align:center
+}
+.myButton{
+    font-size: 3.5em;
+    border-radius: 1px;
+    padding: 5px 20px;
+}
